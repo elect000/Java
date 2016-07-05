@@ -1,9 +1,9 @@
 
 public class Example_2 {
     public static void main(String[] args) {
-		System.out.println("å¤§ããª");
-		System.out.println("ã®ã£ã½ã®");
-		System.out.println("å¤æ™‚è¨ˆ");
+		System.out.println("‘å‚«‚È");
+		System.out.println("‚Ì‚Á‚Û‚Ì");
+		System.out.println("ŒÃŒv");
 		
 	}
 }

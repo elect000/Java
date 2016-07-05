@@ -1,11 +1,11 @@
 
 public class Calc1 {
 	public static void main(String[] args) {
-		System.out.println("2ã¨3ã‚’è¶³ã—ãŸçµæœã¯"+(2+3)+"ã§ã™ã€‚");
-		System.out.println("2ã‹ã‚‰3ã‚’å¼•ã„ãŸçµæœã¯"+(2-3)+"ã§ã™ã€‚");
-		System.out.println("2ã¨3ã‚’ã‹ã‘ãŸçµæœã¯"+(2*3)+"ã§ã™ã€‚");
-		System.out.println("2ã‚’3ã§å‰²ã£ãŸå•†ã¯"+(2/3)+"ã§ã™ã€‚");
-		System.out.println("2ã‚’3ã§å‰²ã£ãŸå‰°ä½™ã¯"+(2%3)+"ã§ã™ã€‚");
+		System.out.println("2‚Æ3‚ğ‘«‚µ‚½Œ‹‰Ê‚Í"+(2+3)+"‚Å‚·B");
+		System.out.println("2‚©‚ç3‚ğˆø‚¢‚½Œ‹‰Ê‚Í"+(2-3)+"‚Å‚·B");
+		System.out.println("2‚Æ3‚ğ‚©‚¯‚½Œ‹‰Ê‚Í"+(2*3)+"‚Å‚·B");
+		System.out.println("2‚ğ3‚ÅŠ„‚Á‚½¤‚Í"+(2/3)+"‚Å‚·B");
+		System.out.println("2‚ğ3‚ÅŠ„‚Á‚½è—]‚Í"+(2%3)+"‚Å‚·B");
 	}
     
 }
